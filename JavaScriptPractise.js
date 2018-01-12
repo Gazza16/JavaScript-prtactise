@@ -1,3 +1,5 @@
+//Javascript basic function review
+
 console.log('Hello')
 console.log('I am pushing stuff to the screen')
 
